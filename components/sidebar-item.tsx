@@ -1,7 +1,7 @@
 "use client";
 import { Button } from "@/components/ui/button";
-import Link from "antd/es/typography/Link";
 import Image from "next/image";
+import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 type Props = {
